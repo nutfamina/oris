@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    background: pink;
+}
+
+h1 {
+    color: pink;
+}
+
+.section {
+    background: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+#footer {
+    background: pink;
+    color: white;
+    text-align: center;
+    padding: 3px;
+}
+
+nav a {
+    color: white;ы
+}
+
+
